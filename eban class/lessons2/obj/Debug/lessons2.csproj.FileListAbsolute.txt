@@ -1,0 +1,14 @@
+C:\Users\Вультурьйол\Desktop\lessons2\lessons2\bin\Debug\lessons2.exe.config
+C:\Users\Вультурьйол\Desktop\lessons2\lessons2\bin\Debug\lessons2.exe
+C:\Users\Вультурьйол\Desktop\lessons2\lessons2\bin\Debug\lessons2.pdb
+C:\Users\Вультурьйол\Desktop\lessons2\lessons2\obj\Debug\lessons2.csproj.AssemblyReference.cache
+C:\Users\Вультурьйол\Desktop\lessons2\lessons2\obj\Debug\lessons2.csproj.CoreCompileInputs.cache
+C:\Users\Вультурьйол\Desktop\lessons2\lessons2\obj\Debug\lessons2.exe
+C:\Users\Вультурьйол\Desktop\lessons2\lessons2\obj\Debug\lessons2.pdb
+C:\Users\Вультурьйол\Desktop\eban class\lessons2\bin\Debug\lessons2.exe.config
+C:\Users\Вультурьйол\Desktop\eban class\lessons2\bin\Debug\lessons2.exe
+C:\Users\Вультурьйол\Desktop\eban class\lessons2\bin\Debug\lessons2.pdb
+C:\Users\Вультурьйол\Desktop\eban class\lessons2\obj\Debug\lessons2.csproj.AssemblyReference.cache
+C:\Users\Вультурьйол\Desktop\eban class\lessons2\obj\Debug\lessons2.csproj.CoreCompileInputs.cache
+C:\Users\Вультурьйол\Desktop\eban class\lessons2\obj\Debug\lessons2.exe
+C:\Users\Вультурьйол\Desktop\eban class\lessons2\obj\Debug\lessons2.pdb
